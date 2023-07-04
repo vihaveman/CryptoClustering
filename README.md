@@ -7,3 +7,4 @@ Pandas
 Hvplot 
 Pathlib 
 Sklearn
+Jupyter Notebook
